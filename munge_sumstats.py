@@ -39,7 +39,7 @@ default_cnames = {
     'RS_NUMBER': 'SNP',
     'RS_NUMBERS': 'SNP',
     # NUMBER OF STUDIES
-    'NSTUDY': 'NSTUDY',
+	'NSTUDY': 'NSTUDY',
     'N_STUDY': 'NSTUDY',
     'NSTUDIES': 'NSTUDY',
     'N_STUDIES': 'NSTUDY',
@@ -72,7 +72,8 @@ default_cnames = {
     'CASES_N': 'N_CAS',
     'N_CASE': 'N_CAS',
     'N_CASES': 'N_CAS',
-    'N_CONTROLS': 'N_CON',
+    'NCOMPLETESAMPLES':'N', 
+	'N_CONTROLS': 'N_CON',
     'N_CAS': 'N_CAS',
     'N_CON': 'N_CON',
     'N_CASE': 'N_CAS',
